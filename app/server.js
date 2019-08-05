@@ -15,11 +15,9 @@ app.use(express.static("app/public"));
 require("./app/routing/api-routes.js")(app);
 require("./app/routing/html-routes.js")(app);
 
-app.listen(PORT, function () {
-    console.log("App listening on PORT " + PORT);
+
     
    
     app.listen(port, () => console.log("Listening on port %s", PORT ));
 
-});
     
