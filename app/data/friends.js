@@ -35,13 +35,8 @@ var friends = [
         scores: [1, 1, 4, 5, 1, 5, 1, 2, 4, 3]
     },
     {
-        name:"Freddie Mercury",
-        photo: "https://cdn.images.express.co.uk/img/dynamic/36/590x/Queen-Live-Aid-Freddie-Mercury-1161507.jpg?r=1564865020694",
-        scores: [1, 1, 4, 5, 1, 5, 1, 2, 4, 3]
-    },
-    {
         name:"Gary Busey",
-        photo: "    https://s.hdnux.com/photos/21/01/31/4462172/19/920x920.jpg",
+        photo: "https://s.hdnux.com/photos/21/01/31/4462172/19/920x920.jpg",
         scores: [2, 5, 3, 5, 1, 2, 4, 3, 5, 4]
     },
     {
