@@ -1,7 +1,7 @@
 var friends = [
     {
         name:" Justin Bieber",
-        photo: "https://i1.wp.com/liveforlivemusic.com/wp-content/uploads/2014/07/tumblr_l6ab76LL3o1qz9wzuo1_r1_500.jpg?zoom=2&resize=410%2C390&ssl=1",
+        photo: "https://pbs.twimg.com/profile_images/898295311893880832/bCps4HFV_400x400.jpg",
         scores: [5, 2, 5, 3, 1, 3, 4, 5, 3, 2]
     },
     {
