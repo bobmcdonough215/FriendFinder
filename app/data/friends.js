@@ -1,7 +1,7 @@
 var friends = [
     {
         name:" Justin Bieber",
-        photo: "https://pbs.twimg.com/profile_images/898295311893880832/bCps4HFV_400x400.jpg",
+        photo: "https://pbs.twimg.com/profile_images/898295311893880832/bCps4HFV_400x400.jpg", 
         scores: [5, 2, 5, 3, 1, 3, 4, 5, 3, 2]
     },
     {
@@ -44,7 +44,9 @@ var friends = [
         photo: "https://www.usmagazine.com/wp-content/uploads/britney-spears-540ad1bd-e0c4-4db5-a79b-a1887a5f6708.jpg",
         scores: [2, 5, 3, 5, 1, 2, 4, 3, 5, 4]
     },
-
 ]; 
+
+
+
  module.exports = friends;
 
